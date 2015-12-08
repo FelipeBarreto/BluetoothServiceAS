@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothService</string>
+    
+     <!-- Neighborhood Activity -->
+    <string name="timeout_message">Disconnected by timeout</string>
+    <string name="unable_to_connect_message">Unable to connect device</string>
+    <string name="connection_lost_message">Device connection was lost</string>
+</resources>
